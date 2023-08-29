@@ -7,8 +7,8 @@ PLUGIN_METADATA = {
     'version': '1.0.0',
     'name': 'game of death',
     'description': 'a LITTEL GAME',
-    'author': '浔钰',
-    'link': '暂时没有qwq'
+    'author': 'MICOAST',
+    'link': 'https://github.com/MICOAST/MCDR-deadgame-plugin'
 }
 
 option_2 = None
